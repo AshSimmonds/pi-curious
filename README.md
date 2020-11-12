@@ -13,4 +13,6 @@ Using a highly personalised system for memorizing is great for custom scenarios,
 
 Thinking stuff like the ABC song, you don't need to have your own personal version to remember the alphabet. This should be applicable to at least the first 100 digits of pi.
 
+What comes to mind is leverage. This is what's missing from all the other methods I've seen. In each of those you need to ALSO learn other mnemonic systems that most people just won't bother to use. So we should really leverage stuff we already know and build on that. Eg for the alphabet - can we chunk 3 or 4 numbers per letter somehow? Dunno, but let's explore...
+
 So in here I'll slowly build up ways to use mnemonic devices and nursery rhymes and such, some of which will be customisable, until we come to a consensus on what is applicable universally.
